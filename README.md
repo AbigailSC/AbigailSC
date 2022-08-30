@@ -1,16 +1,16 @@
-### Hi there 👋
+### console.log('Hola mundo! 👋')
 
-<!--
-**AbigailSC/AbigailSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me llamo abigail, tengo 23 años, apasionada por los videojuegos y la programación web. 
+Tengo una inclinación por el front end por mi naturaleza creativa y curiosa. Actualmente desarrollando mas proyectos en equipo para poder ampliar mi experiencia como **Full Stack developer** usando Scrum **;**
 
-Here are some ideas to get you started:
+```javascript
+const Abigail = {
+		name = 'Abigail',
+		edad = 23,
+		herramientas = [Javascript, React, Redux, Redux Toolkit, NodeJS, Express, PostgreSQL, Sequelize, CSS, HTML]
+		hobbies = ['Jugar videojeugos', 'Escuchar musica', 'Dibujar', 'Stremear']
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Actualmente estoy aprendiendo **MongoDB**, **Typescript**, **Tailwind CSS** **;**
+- ⚡ Dato curioso:  **El 98% del tiempo programando estoy escuchando musica, si ves estoy programando y no estoy escuchando musica probablemente no sea yo, si no uno de mis gatos cubriendo las horas extras 🐱** **;**
