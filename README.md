@@ -8,7 +8,7 @@ const Abigail = {
 		name = 'Abigail',
 		edad = 23,
 		herramientas = [Javascript, React, Redux, Redux Toolkit, NodeJS, Express, PostgreSQL, Sequelize, CSS, HTML]
-		hobbies = ['Jugar videojeugos', 'Escuchar musica', 'Dibujar', 'Stremear']
+		hobbies = ['Jugar videojuegos', 'Escuchar musica', 'Dibujar', 'Stremear']
 }
 ```
 
