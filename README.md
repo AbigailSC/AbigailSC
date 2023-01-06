@@ -47,6 +47,7 @@ I'm learning **MongoDB**, **PHP** and getting better at **Typescript** .
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📫 How to reach me
 - Do you have any question or project to work together?
@@ -74,3 +75,6 @@ I'm learning **MongoDB**, **PHP** and getting better at **Typescript** .
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abigailsc&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🎧 Now Playing 
+
+[![Spotify](https://novatorem-84k1n141p-abigailsc.vercel.app/api/spotify)](https://open.spotify.com/user/t4kbp3u1ij2wg6ag0kn8ceae7)
