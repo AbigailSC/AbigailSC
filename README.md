@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋 I'm <span style="color:blue"> **Abigail Sarzuri** </span> </h1>
+<h1 align="center"> Hi 👋 I'm Abigail Sarzuri </h1>
 
 ## 👨‍💻 About Me
 
@@ -6,7 +6,10 @@ I'm a Fullstack developer 💻 from Argentina.
 I am front end oriented due to my creative and curious nature, I like to create programs and transform ideas into code.
 
 <details>
-  <summary> - 🤝 I’m looking for help with finding projects to contribute to! </summary>  
+  <summary> - More about me </summary>
+  - 🤝 I’m looking for help with finding projects to contribute to!
+  - 💻 I’m currently developing Musitracker, an application which will allow you to search, listen and save the music you like.
+  - ✍️  In my free time, I play videogames, I draw digitally, I stream and research new technologies as my hobbies.
 </details>
 
 ## 🌱 I’m currently learning
