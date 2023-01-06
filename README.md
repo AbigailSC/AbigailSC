@@ -1,17 +1,15 @@
-### Hola 👋 Soy Abigail Sarzuri
+<h1>Hi 👋 I'm Abigail Sarzuri</h1>
 
-Me llamo abigail, tengo 23 años, apasionada por los videojuegos y la programación web. 
-Tengo una inclinación por el front end por mi naturaleza creativa y curiosa. Actualmente desarrollando mas proyectos en equipo para poder ampliar mi experiencia como **Full Stack developer** usando Scrum **;**
+## 👨‍💻 About Me
 
-```javascript
-const Abigail = {
-		name = 'Abigail',
-		edad = 23,
-		herramientas = [Javascript, React, Redux, Redux Toolkit, NodeJS, Express, PostgreSQL, Sequelize, CSS, HTML]
-}
-```
+I'm a Fullstack developer 💻 from Argentina.
+I am front end oriented due to my creative and curious nature, I like to create programs and transform ideas into code.
 
 - 🌱 Actualmente estoy aprendiendo **MongoDB**, **Typescript**, **PHP** ;
+
+## 📩 Connect
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abigailsc&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
