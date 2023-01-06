@@ -6,7 +6,7 @@ I'm a Fullstack developer 💻 from Argentina.
 I am front end oriented due to my creative and curious nature, I like to create programs and transform ideas into code.
 
 <details>
-  <summary> 😺 More about me </summary>
+  <summary> 👉 More about me </summary>
   
   - 🤝 I’m looking for help with finding projects to contribute to!
   - 💻 I’m currently developing Musitracker, an application which will allow you to search, listen and save the music you like.
