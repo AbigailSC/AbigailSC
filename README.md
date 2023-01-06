@@ -7,9 +7,11 @@ I am front end oriented due to my creative and curious nature, I like to create 
 
 <details>
   <summary> 🤓 More about me </summary>
-  <p align="left" > - 🤝 I’m looking for help with finding projects to contribute to! </p>
+  
+  - *🤝 I’m looking for help with finding projects to contribute to!*
   - 💻 I’m currently developing Musitracker, an application which will allow you to search, listen and save the music you like.
   - ✍️  In my free time, I play videogames, I draw digitally, I stream and research new technologies as my hobbies.
+  
 </details>
 
 ## 🌱 I’m currently learning
