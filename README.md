@@ -22,8 +22,11 @@ Do you have any question or project to work together?
   </a>
 </p>
 
+## 📈 GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abigailsc&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## ⌨️ Languages
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abigailsc&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
