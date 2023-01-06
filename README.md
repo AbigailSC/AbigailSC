@@ -17,21 +17,23 @@ I am front end oriented due to my creative and curious nature, I like to create 
 
 ## 🌱 I’m currently learning
 
+I'm learning **MongoDB**, **PHP** and getting better at **Typescript** .
+
 ## 📫 How to reach me
 - Do you have any question or project to work together?
 
 <p align="left">
   <a href="mailto:abigailsarzuri@gmail.com?Subject=I%20want%20propose%20you%20something" target="_blank" rel="noreferrer" >
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
   <a href="https://www.linkedin.com/in/abigailsarzuri/" target="_blank" rel="noreferrer" >
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
   <a href="https://twitter.com/abigail_sarzuri" target="_blank" rel="noreferrer" >
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="20" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30" />
   </a>
   <a href="" target="_blank" rel="noreferrer" >
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="20" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30" />
   </a>
 </p>
 
