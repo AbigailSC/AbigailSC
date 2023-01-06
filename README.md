@@ -7,13 +7,16 @@ I am front end oriented due to my creative and curious nature, I like to create 
 
 - 🌱 Actualmente estoy aprendiendo **MongoDB**, **Typescript**, **PHP** ;
 
-## 📩 Connect
+## 📫 How to reach me
 
 <p align="left">
   <a href="mailto:abigailsarzuri@gmail.com?Subject=I%20want%20propose%20you%20something" target="_blank" rel="noreferrer" >
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" />
   </a>
-
+  <a href="mailto:abigailsarzuri@gmail.com?Subject=I%20want%20propose%20you%20something" target="_blank" rel="noreferrer" >
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" />
+  </a>
+</p>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abigailsc&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
