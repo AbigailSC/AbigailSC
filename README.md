@@ -30,9 +30,9 @@ I am front end oriented due to my creative and curious nature, I like to create 
   <a href="https://twitter.com/abigail_sarzuri" target="_blank" rel="noreferrer" >
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="20" />
   </a>
-  <a href="Abigails#3309" target="_blank" rel="noreferrer" >
+  
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="20" />
-  </a>
+  
 </p>
 
 ## ⌨️ Languages
