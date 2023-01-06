@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋 I'm <span style="color:orange"> **Abigail Sarzuri** </span> </h1>
+<h1 align="center"> Hi 👋 I'm <span style="color:blue"> **Abigail Sarzuri** </span> </h1>
 
 ## 👨‍💻 About Me
 
