@@ -5,9 +5,10 @@
 I'm a Fullstack developer 💻 from Argentina.
 I am front end oriented due to my creative and curious nature, I like to create programs and transform ideas into code.
 
-- 🌱 Actualmente estoy aprendiendo **MongoDB**, **Typescript**, **PHP** ;
+## 🌱 I’m currently learning
 
 ## 📫 How to reach me
+Do you have any question or project to work together?
 
 <p align="left">
   <a href="mailto:abigailsarzuri@gmail.com?Subject=I%20want%20propose%20you%20something" target="_blank" rel="noreferrer" >
