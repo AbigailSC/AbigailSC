@@ -8,9 +8,10 @@ I am front end oriented due to my creative and curious nature, I like to create 
 <details>
   <summary> 🤓 More about me </summary>
   
-  - *🤝 I’m looking for help with finding projects to contribute to!*
+  - 🤝 I’m looking for help with finding projects to contribute to!
   - 💻 I’m currently developing Musitracker, an application which will allow you to search, listen and save the music you like.
   - ✍️  In my free time, I play videogames, I draw digitally, I stream and research new technologies as my hobbies.
+  - 🎵 I love to hear kpop and rock music.
   
 </details>
 
@@ -28,6 +29,9 @@ I am front end oriented due to my creative and curious nature, I like to create 
   </a>
   <a href="https://twitter.com/abigail_sarzuri" target="_blank" rel="noreferrer" >
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="20" />
+  </a>
+  <a href="Abigails#3309" target="_blank" rel="noreferrer" >
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="20" />
   </a>
 </p>
 
