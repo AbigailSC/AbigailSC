@@ -1,14 +1,18 @@
-<h1 align="center"> Hi 👋 I'm Abigail Sarzuri </h1>
+<h1 align="center"> Hi 👋 I'm <span style="color:orange"> Abigail Sarzuri </span> </h1>
 
 ## 👨‍💻 About Me
 
 I'm a Fullstack developer 💻 from Argentina.
 I am front end oriented due to my creative and curious nature, I like to create programs and transform ideas into code.
 
+<details>
+  <summary> - 🤝 I’m looking for help with finding projects to contribute to! </summary>  
+</details>
+
 ## 🌱 I’m currently learning
 
 ## 📫 How to reach me
-Do you have any question or project to work together?
+- Do you have any question or project to work together?
 
 <p align="left">
   <a href="mailto:abigailsarzuri@gmail.com?Subject=I%20want%20propose%20you%20something" target="_blank" rel="noreferrer" >
