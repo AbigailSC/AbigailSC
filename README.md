@@ -1,4 +1,4 @@
-<h1>Hi 👋 I'm Abigail Sarzuri</h1>
+<h1 align="center"> Hi 👋 I'm Abigail Sarzuri </h1>
 
 ## 👨‍💻 About Me
 
