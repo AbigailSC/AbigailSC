@@ -13,8 +13,11 @@ I am front end oriented due to my creative and curious nature, I like to create 
   <a href="mailto:abigailsarzuri@gmail.com?Subject=I%20want%20propose%20you%20something" target="_blank" rel="noreferrer" >
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" />
   </a>
-  <a href="mailto:abigailsarzuri@gmail.com?Subject=I%20want%20propose%20you%20something" target="_blank" rel="noreferrer" >
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" />
+  <a href="https://www.linkedin.com/in/abigailsarzuri/" target="_blank" rel="noreferrer" >
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20" />
+  </a>
+  <a href="https://twitter.com/abigail_sarzuri" target="_blank" rel="noreferrer" >
+    <img src="https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white" height="20" />
   </a>
 </p>
 
