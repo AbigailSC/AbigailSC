@@ -73,7 +73,7 @@ I'm learning **MongoDB**, **Docker** and getting better at **Typescript** .
 
 ## 🔥 Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abigailsc&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abigailsc&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎧 Now Playing 
 
