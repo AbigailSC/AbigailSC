@@ -17,7 +17,7 @@ I am front end oriented due to my creative and curious nature, I like to create 
 
 ## 🌱 I’m currently learning
 
-I'm learning **MongoDB**, **Docker** and getting better at **Typescript** .
+I'm learning **Angular** and **Docker**.
 
 ## 📌 Frontend Languages and frameworks
 
