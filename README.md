@@ -1,3 +1,5 @@
+<img src="https://res.cloudinary.com/dbhb8sohh/image/upload/v1678469582/backgroundgithugFinal_m84jju.png" alt="background"/>
+
 <h1 align="center"> Hi 👋 I'm Abigail Sarzuri </h1>
 
 ## 👨‍💻 About Me
@@ -9,7 +11,7 @@ I am front end oriented due to my creative and curious nature, I like to create 
   <summary> 👉 More about me </summary>
   
   - 🤝 I’m looking for help with finding projects to contribute to!
-  - 💻 I’m currently developing Musitracker, an application which will allow you to search, listen and save the music you like.
+  - 💻 I’m currently developing AnimeApp, an application which will allow watch anime.
   - ✍️  In my free time, I play videogames, I draw digitally, I stream and research new technologies as my hobbies.
   - 🎵 I love to hear kpop and rock music.
   
