@@ -78,7 +78,7 @@ I'm learning **Angular** and **Docker**.
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30" />
   </a>
   <a href="" target="_blank" rel="noreferrer" >
-    <img src="https://img.shields.io/badge/Abigailsc%233309-5865F2?style=for-the-badge&logo=Discord&logoColor=fff" height="30" />
+    <img src="https://dcbadge.vercel.app/api/shield/329042015750979585" height="30" />
   </a>
 </p>
 
