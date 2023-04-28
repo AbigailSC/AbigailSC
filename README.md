@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/dbhb8sohh/image/upload/v1678469582/backgroundgithugFinal_m84jju.png" alt="background"/>
+<img src="https://res.cloudinary.com/dbhb8sohh/image/upload/v1682689262/backgroundgithugFinalv2_j82thx.png" alt="background"/>
 
 <h1 align="center"> Hi 👋 I'm Abigail Sarzuri </h1>
 
