@@ -11,7 +11,7 @@ I am front end oriented due to my creative and curious nature, I like to create 
   <summary> 👉 More about me </summary>
   
   - 🤝 I’m looking for help with finding projects to contribute to!
-  - 💻 I’m currently developing AnimeApp, an application which will allow watch anime.
+  - 💻 I’m currently working.
   - ✍️  In my free time, I play videogames, I draw digitally, I stream and research new technologies as my hobbies.
   - 🎵 I love to hear kpop and rock music.
   
@@ -19,7 +19,7 @@ I am front end oriented due to my creative and curious nature, I like to create 
 
 ## 🌱 I’m currently learning
 
-I'm learning **Angular** and **Docker**.
+I'm learning **Java** and **Docker**.
 
 ## 🎨 Frontend
 
