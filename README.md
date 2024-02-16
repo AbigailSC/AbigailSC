@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me
 
 I'm a Fullstack developer 💻 from Argentina.
-I am front end oriented due to my creative and curious nature, I like to create programs and transform ideas into code.
+I am back end oriented due to my creative nature, I like to create programs and transform ideas into code.
 
 <details>
   <summary> 👉 More about me </summary>
