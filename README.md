@@ -12,14 +12,13 @@ I am back end oriented due to my creative nature, I like to create programs and 
   
   - 🤝 I’m looking for help with finding projects to contribute to!
   - 💻 I’m currently working.
-  - ✍️  In my free time, I play videogames, I draw digitally, I stream and research new technologies as my hobbies.
-  - 🎵 I love to hear kpop and rock music.
+  - ✍️  In my free time, I play videogames, I draw digitally and research new technologies as my hobbies.
   
 </details>
 
 ## 🌱 I’m currently learning
 
-I'm learning **Docker**.
+I'm learning **Python**.
 
 ## 🎨 Frontend
 
@@ -59,15 +58,12 @@ I'm learning **Docker**.
 
 ## 📌 Other tecnologies
 
+![Docker](https://img.shields.io/badge/docker-40AEF0?style=for-the-badge&logo=docker&logoColor=white)
 ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
-![Sonarlint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
 ## 📫 How to reach me
 - Do you have any question or project to work together?
