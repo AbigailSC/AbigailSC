@@ -4,21 +4,24 @@
 
 ## 👨‍💻 About Me
 
-I'm a Fullstack developer 💻 from Argentina.
-I am back end oriented due to my creative nature, I like to create programs and transform ideas into code.
+I'm a Backend Developer from Argentina with a passion for crafting robust solutions.
+I love transforming complex ideas into clean, efficient code and building the systems that power great applications.
+
+I enjoy tackling challenging problems and creating scalable architectures that make a difference.
 
 <details>
   <summary> 👉 More about me </summary>
   
-  - 🤝 I’m looking for help with finding projects to contribute to!
-  - 💻 I’m currently working.
-  - ✍️  In my free time, I play videogames, I draw digitally and research new technologies as my hobbies.
+  - 🤝 I'm looking to contribute to open source projects!
+  - 💻 Currently working as an RPA Developer
+  - 🎓 Studying a Technical Degree in Programming
+  - 🎮 When not coding: playing games and spending time with my cats!
   
 </details>
 
 ## 🌱 I’m currently learning
 
-I'm learning **Python**.
+I'm learning **UI Path**.
 
 ## 🎨 Frontend
 
@@ -78,18 +81,17 @@ I'm learning **Python**.
   <a href="https://twitter.com/abigail_sarzuri" target="_blank" rel="noreferrer" >
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30" />
   </a>
-  <a href="" target="_blank" rel="noreferrer" >
-    <img src="https://dcbadge.vercel.app/api/shield/329042015750979585" height="30" />
-  </a>
 </p>
 
 ## ⌨️ Languages
 
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abigailsc&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🔥 Github Stats
+## 🔥 My Github Data
 
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abigailsc&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 ## 🎧 Now Playing 
 
