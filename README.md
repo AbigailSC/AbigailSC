@@ -86,13 +86,11 @@ I'm learning **UI Path**.
 ## ⌨️ Languages
 
 <!--START_SECTION:waka-->
-SHOW_DAYS_OF_WEEK
-<!--END_SECTION:waka-->
 
-## 🔥 My Github Data
+```txt
+No activity tracked
+```
 
-<!--START_SECTION:waka-->
-SHOW_LANGUAGE
 <!--END_SECTION:waka-->
 
 ## 🎧 Now Playing 
