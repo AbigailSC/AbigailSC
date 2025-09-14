@@ -85,16 +85,14 @@ I'm learning **UI Path**.
 
 ## ⌨️ Languages
 
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abigailsc&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+SHOW_DAYS_OF_WEEK
+<!--END_SECTION:waka-->
 
 ## 🔥 My Github Data
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
+SHOW_LANGUAGE
 <!--END_SECTION:waka-->
 
 ## 🎧 Now Playing 
