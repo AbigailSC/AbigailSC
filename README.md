@@ -88,7 +88,10 @@ I'm learning **UI Path**.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   2 hrs 2 mins    ██████████████████░░░░░░░   71.60 %
+HTML         24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.34 %
+CSS          24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
