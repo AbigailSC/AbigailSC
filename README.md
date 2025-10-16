@@ -88,11 +88,10 @@ I'm learning **UI Path**.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     2 hrs 33 mins   ████████████████████▒░░░░   81.50 %
-TypeScript   26 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
-JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-TSConfig     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+TypeScript   26 mins         ███████████████████░░░░░░   76.40 %
+JavaScript   3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
+TSConfig     3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
 ```
 
 <!--END_SECTION:waka-->
