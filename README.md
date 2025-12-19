@@ -88,11 +88,7 @@ I'm learning **UI Path**.
 <!--START_SECTION:waka-->
 
 ```txt
-Docker       5 mins          ██████████▓░░░░░░░░░░░░░░   42.98 %
-TSConfig     2 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.75 %
-TypeScript   1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
-JSON         1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
-YAML         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
