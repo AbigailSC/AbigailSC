@@ -88,7 +88,11 @@ I'm learning **UI Path**.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   22 mins         ████████████████████▒░░░░   81.26 %
+JSON         2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
+TSConfig     1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+JavaScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 ```
 
 <!--END_SECTION:waka-->
