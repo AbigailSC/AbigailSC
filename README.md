@@ -88,11 +88,11 @@ I'm learning **UI Path**.
 <!--START_SECTION:waka-->
 
 ```txt
-EJS                        2 hrs 51 mins         ██████████████▒░░░░░░░░░░   57.67 %
-TypeScript                 1 hr 27 mins          ███████▒░░░░░░░░░░░░░░░░░   29.30 %
-YAML                       19 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
-TSConfig                   9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Nginx configuration file   9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+EJS                        2 hrs 26 mins         ████████████████▒░░░░░░░░   65.90 %
+TypeScript                 36 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
+YAML                       19 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
+TSConfig                   9 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+Nginx configuration file   9 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
 ```
 
 <!--END_SECTION:waka-->
