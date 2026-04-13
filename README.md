@@ -88,8 +88,7 @@ I'm learning **UI Path**.
 <!--START_SECTION:waka-->
 
 ```txt
-EJS          49 mins               █████████████████████▒░░░   85.35 %
-TypeScript   8 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
