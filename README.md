@@ -88,7 +88,11 @@ I'm learning **UI Path**.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Git Config   1 min                 ███████████▓░░░░░░░░░░░░░   46.27 %
+Bash         1 min                 █████████▓░░░░░░░░░░░░░░░   38.95 %
+Other        0 secs                ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+SQL          0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+XML          0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
